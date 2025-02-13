@@ -1,0 +1,17 @@
+git fetch origin
+
+git rebase origin/main
+
+git push origin main
+
+git branch
+
+git branch -M main
+
+git init
+
+git add .
+
+git commit -m "Initial commit"
+
+git push -u origin main
